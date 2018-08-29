@@ -1,0 +1,22 @@
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\bin\Debug\Regra de 3.exe.config
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\bin\Debug\Regra de 3.exe
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\bin\Debug\Regra de 3.pdb
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\bin\Debug\Regra de 3.xml
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\obj\Debug\Regra de 3.vbprojResolveAssemblyReference.cache
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\obj\Debug\Regra_de_3.Form1.resources
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\obj\Debug\Regra_de_3.Resources.resources
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\obj\Debug\Regra de 3.vbproj.GenerateResource.Cache
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\obj\Debug\Regra de 3.exe
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\obj\Debug\Regra de 3.xml
+c:\users\pichau\documents\visual studio 2017\Projects\Regra de 3\Regra de 3\obj\Debug\Regra de 3.pdb
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\obj\Debug\Regra de 3.vbprojResolveAssemblyReference.cache
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\obj\Debug\Regra_de_3.Form1.resources
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\obj\Debug\Regra_de_3.Resources.resources
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\obj\Debug\Regra de 3.vbproj.GenerateResource.Cache
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\bin\Debug\Calculadora Bitcoin.exe.config
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\bin\Debug\Calculadora Bitcoin.exe
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\bin\Debug\Calculadora Bitcoin.pdb
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\bin\Debug\Calculadora Bitcoin.xml
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\obj\Debug\Calculadora Bitcoin.exe
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\obj\Debug\Calculadora Bitcoin.xml
+C:\Users\Pichau\Documents\Visual Studio 2017\Projects\Bitcoin\Regra de 3\obj\Debug\Calculadora Bitcoin.pdb

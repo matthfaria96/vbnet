@@ -1,0 +1,49 @@
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\bin\Debug\Deutsch.exe.config
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\bin\Debug\Deutsch.exe
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\bin\Debug\Deutsch.pdb
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\bin\Debug\Deutsch.xml
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\obj\Debug\Deutsch.Resources.resources
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\obj\Debug\Deutsch.vbproj.GenerateResource.Cache
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\obj\Debug\Deutsch.exe
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\obj\Debug\Deutsch.xml
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\obj\Debug\Deutsch.pdb
+C:\Users\galego\AppData\Local\Temporary Projects\Deutsch\obj\Debug\Deutsch.Form1.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\bin\Debug\Deutsch.exe.config
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.exe
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.xml
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.pdb
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\bin\Debug\Deutsch.exe
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\bin\Debug\Deutsch.pdb
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\bin\Debug\Deutsch.xml
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.Form1.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.Resources.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.vbproj.GenerateResource.Cache
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.TRAMPO.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.dicas.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.verbos_1.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.subs4.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.subs3.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.subs2.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.subs1.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.subs5.resources
+C:\Users\galego\Documents\Visual Studio 2012\Projects\Deutsch\Deutsch\obj\Debug\Deutsch.subs6.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\bin\Debug\Deutsch.exe.config
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\bin\Debug\Deutsch.exe
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\bin\Debug\Deutsch.pdb
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\bin\Debug\Deutsch.xml
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.vbprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.dicas.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.Form1.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.verbos_1.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.Resources.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.subs1.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.subs2.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.subs3.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.subs4.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.subs6.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.subs5.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.TRAMPO.resources
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.vbproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.exe
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.xml
+C:\Users\Pichau\Desktop\Deutsch\Deutsch\obj\Debug\Deutsch.pdb

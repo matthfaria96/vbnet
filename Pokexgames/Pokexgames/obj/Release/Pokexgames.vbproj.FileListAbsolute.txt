@@ -1,0 +1,10 @@
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Release\Pokexgames.Form1.resources
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Release\Pokexgames.Resources.resources
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Release\Pokexgames.vbproj.GenerateResource.Cache
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\bin\Release\Pokexgames PxG 1.3.exe
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\bin\Release\Pokexgames PxG 1.3.pdb
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\bin\Release\Pokexgames PxG 1.3.xml
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Release\Pokexgames PxG 1.3.exe
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Release\Pokexgames PxG 1.3.xml
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Release\Pokexgames PxG 1.3.pdb

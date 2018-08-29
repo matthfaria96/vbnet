@@ -1,0 +1,23 @@
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\bin\Debug\Pokexgames.exe
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\bin\Debug\Pokexgames.pdb
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\bin\Debug\Pokexgames.xml
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\obj\Debug\Pokexgames.Form1.resources
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\obj\Debug\Pokexgames.Resources.resources
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\obj\Debug\Pokexgames.vbproj.GenerateResource.Cache
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\obj\Debug\Pokexgames.exe
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\obj\Debug\Pokexgames.xml
+C:\Users\Galego\AppData\Local\Temporary Projects\Pokexgames\obj\Debug\Pokexgames.pdb
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames.Form1.resources
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames.Resources.resources
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames.vbproj.GenerateResource.Cache
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\bin\Debug\Pokexgames PxG 1.3.exe
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\bin\Debug\Pokexgames PxG 1.3.pdb
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\bin\Debug\Pokexgames PxG 1.3.xml
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames PxG 1.3.exe
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames PxG 1.3.xml
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames PxG 1.3.pdb
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames.LoginForm1.resources
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames.Form2.resources
+C:\Users\Galego\Documents\Visual Studio 2008\Projects\Pokexgames\Pokexgames\obj\Debug\Pokexgames.Form3.resources
