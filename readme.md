@@ -1,5 +1,5 @@
 # VB.NET Programs
-## All of them were created by Matheus Henrique de Faria. They are open souce, feel free to download them.
+All of them were created by Matheus Henrique de Faria. They are open souce, feel free to download them.
 
 **Calculadora Bitcoin simples v1.2** - VB.NET
 
